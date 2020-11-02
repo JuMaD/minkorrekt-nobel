@@ -21,8 +21,14 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=1%3A37%3A22%2C1%3A59%3A08)
 
+
+
 ### Chemie
+> Für die Entwicklung von Multiskalen-Modellen für komplexe chemische Systeme.
+
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=1%3A20%3A55%2C1%3A37%3A22)
+
+
 ### Medizin
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A13%3A08%2C2%3A28%3A37)
 ### Literatur
@@ -37,6 +43,7 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=1%3A20%3A51%2C2%3A01%3A58)
 
 ### Chemie
+>Für die Entwicklung von superauflösender Fluoreszenzmikroskopie.
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=32%3A36%2C1%3A14%3A19)
 ### Medizin
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=2%3A26%3A33%2C2%3A58%3A00)
@@ -53,6 +60,7 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=29%3A51%2C1%3A19%3A41)
 ### Chemie
+>Für mechanistische Studien der DNA-Reparatur.
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A19%3A41%2C1%3A51%3A18)
 ### Medizin
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A51%3A18%2C2%3A05%3A26)
@@ -67,6 +75,8 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A00%3A16%2C1%3A37%3A11)
 
 ### Chemie
+>Für den Entwurf und die Synthese Molekularer Maschinen.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A37%3A11%2C1%3A58%3A55)
 ### Medizin
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A58%3A55%2C2%3A22%3A51)
@@ -75,13 +85,19 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 ### Frieden
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=3%3A10%3A43%2C3%3A18%3A48)
 
+
+
 ## 2017
 ### Physik
 >Für entscheidende Beiträge zum LIGO-Detektor und die Beobachtung von Gravitationswellen.
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=50%3A21%2C1%3A21%3A15)
 ### Chemie
+>Für die Entwicklung der Kryo-Elektronenmikroskopie für die hochauflösende Strukturerkennung von Biomolekülen in Lösung.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=1%3A21%3A15%2C1%3A52%3A21)
+
+
 ### Medizin
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=1%3A52%3A21%2C2%3A19%3A41)
 ### Literatur
@@ -95,6 +111,10 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=1%3A32%3A23%2C2%3A15%3A55)
 ### Chemie
+>Für die gerichtete Evolution von Enzymen.
+
+und
+>Für das Phagen-Display von Peptiden und Antikörpern.
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=2%3A15%3A55%2C2%3A59%3A28)
 ### Medizin
@@ -117,7 +137,11 @@ und
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=1%3A16%3A13%2C1%3A53%3A25)
 
 ### Chemie
+>Für die Entwicklung von Lithium-Ionen-Batterien.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=1%3A53%3A25%2C2%3A36%3A23)
+
+
 ### Medizin
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=2%3A36%3A23%2C2%3A55%3A10)
 ### Literatur
@@ -135,7 +159,11 @@ und
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=38%3A47%2C1%3A16%3A12)
 
 ### Chemie
+>Für die Entwicklung einer Methode zur Genom-Editierung.
+
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=1%3A16%3A12%2C1%3A55%3A32)
+
+
 ### Medizin
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=1%3A55%3A32%2C2%3A06%3A19)
 ### Literatur
