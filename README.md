@@ -3,6 +3,7 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 
 ## 2015
 ### Physik
+>Für die Entdeckung von Neutrinooszillationen, die zeigen, dass Neutrinos eine Masse haben.
 ### Chemie
 ### Medizin
 ### Literatur
