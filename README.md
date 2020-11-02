@@ -7,3 +7,38 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ### Medizin
 ### Literatur
 ### Frieden
+
+## 2016
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
+## 2017
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
+## 2018
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
+## 2019
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
+## 2020
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
