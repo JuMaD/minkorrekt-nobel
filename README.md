@@ -4,7 +4,8 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ## 2013
 ### Physik
 >Für die theoretische Entdeckung eines Mechanismus, der zu unserem Verständnis des Ursprungs der Masse subatomarer Teilchen beiträgt, und der kürzlich durch die Entdeckung des vorhergesagten Elementarteilchens durch die ATLAS- und CMS-Experimente am Large Hadron Collider des CERN bestätigt wurde.
-.
+
+[Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=1%3A37%3A22%2C1%3A59%3A08)
 
 ### Chemie
 ### Medizin
