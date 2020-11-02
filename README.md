@@ -1,3 +1,9 @@
-## Minkorrekt Nobelpreis Folgen
+# Minkorrekt Nobelpreis Folgen
 Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de)
 
+## 2015
+### Physik
+### Chemie
+### Medizin
+### Literatur
+### Frieden
