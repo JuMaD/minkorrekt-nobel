@@ -39,6 +39,8 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A34%3A35%2C2%3A40%3A12)
 
 - zum [Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+
 ## 2014
 ### Physik
 >Für die Erfindung effizienter, blaues Licht ausstrahlender Dioden, die helle und energiesparende Lichtquellen ermöglicht haben.
