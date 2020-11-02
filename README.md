@@ -4,6 +4,8 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 # Inhaltsverzeichnis
 
+[Allgemeines zum Nobelpreis](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=16%3A40)
+
 |      | Physik | Chemie | Medizin | Literatur | Frieden |
 |------|--------|--------|---------|-----------|---------|
 | 2013 |  [Physik](#physik)      |   [Chemie](#chemie)     |      [Medizin](#medizin)   |    [Literatur](#literatur)       |    [Frieden](#frieden)     |
