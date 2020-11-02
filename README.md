@@ -1,5 +1,6 @@
 # Minkorrekt Nobelpreis Folgen
-Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de)
+Auf dieser Seite sind alle alle Nobelpreise seit 2013 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de). 
+Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur Nobel-Seite. Beiträge zur Seite gerne unter https://github.com/JuMaD/minkorrekt-nobel/ als pull-request.
 
 # Inhaltsverzeichnis
 
