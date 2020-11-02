@@ -2,56 +2,17 @@
 Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de)
 
 # Inhaltsverzeichnis
-- [Minkorrekt Nobelpreis Folgen](#minkorrekt-nobelpreis-folgen)
-  * [2013](#2013)
-    + [Physik](#physik)
-    + [Chemie](#chemie)
-    + [Medizin](#medizin)
-    + [Literatur](#literatur)
-    + [Frieden](#frieden)
-  * [2014](#2014)
-    + [Physik](#physik-1)
-    + [Chemie](#chemie-1)
-    + [Medizin](#medizin-1)
-    + [Literatur](#literatur-1)
-    + [Frieden](#frieden-1)
-  * [2015](#2015)
-    + [Physik](#physik-2)
-    + [Chemie](#chemie-2)
-    + [Medizin](#medizin-2)
-    + [Literatur](#literatur-2)
-    + [Frieden](#frieden-2)
-  * [2016](#2016)
-    + [Physik](#physik-3)
-    + [Chemie](#chemie-3)
-    + [Medizin](#medizin-3)
-    + [Literatur](#literatur-3)
-    + [Frieden](#frieden-3)
-  * [2017](#2017)
-    + [Physik](#physik-4)
-    + [Chemie](#chemie-4)
-    + [Medizin](#medizin-4)
-    + [Literatur](#literatur-4)
-    + [Frieden](#frieden-4)
-  * [2018](#2018)
-    + [Physik](#physik-5)
-    + [Chemie](#chemie-5)
-    + [Medizin](#medizin-5)
-    + [Literatur](#literatur-5)
-    + [Frieden](#frieden-5)
-  * [2019](#2019)
-    + [Physik](#physik-6)
-    + [Chemie](#chemie-6)
-    + [Medizin](#medizin-6)
-    + [Literatur](#literatur-6)
-    + [Frieden](#frieden-6)
-  * [2020](#2020)
-    + [Physik](#physik-7)
-    + [Chemie](#chemie-7)
-    + [Medizin](#medizin-7)
-    + [Literatur](#literatur-7)
-    + [Frieden](#frieden-7)
 
+|      | Physik | Chemie | Medizin | Literatur | Frieden |
+|------|--------|--------|---------|-----------|---------|
+| 2013 |  [Physik](#physik)      |   [Chemie](#chemie)     |      [Medizin](#medizin)   |    [Literatur](#literatur)       |    [Frieden](#frieden)     |
+| 2014 |    [Physik](#physik-1)    |     [Chemie](#chemie-1)   |    [Medizin](#medizin-1)     |       [Literatur](#literatur-1)    |    [Frieden](#frieden-1)     |
+| 2015 |      [Physik](#physik-2)    |     [Chemie](#chemie-2)   |    [Medizin](#medizin-2)     |       [Literatur](#literatur-2)    |    [Frieden](#frieden-2)     |
+| 2016 |        [Physik](#physik-3)    |     [Chemie](#chemie-3)   |    [Medizin](#medizin-3)     |       [Literatur](#literatur-3)    |    [Frieden](#frieden-3)     |
+| 2017 |         [Physik](#physik-4)    |     [Chemie](#chemie-4)   |    [Medizin](#medizin-4)     |       [Literatur](#literatur-4)    |    [Frieden](#frieden-4)    |  
+| 2018 |        [Physik](#physik-5)    |     [Chemie](#chemie-5)   |    [Medizin](#medizin-5)     |       [Literatur](#literatur-5)    |    [Frieden](#frieden-5)    |  
+| 2019 |        [Physik](#physik-6)    |     [Chemie](#chemie-6)   |    [Medizin](#medizin-6)     |       [Literatur](#literatur-6)    |    [Frieden](#frieden-6)    |  
+| 2020 |        [Physik](#physik-7)    |     [Chemie](#chemie-7)   |    [Medizin](#medizin-7)     |       [Literatur](#literatur-7)    |    [Frieden](#frieden-7)    |  
 
 ## 2013
 ### Physik
@@ -68,7 +29,7 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ### Frieden
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A34%3A35%2C2%3A40%3A12)
 
-[nach oben](#inhaltsverzeichnis)
+- zum [Inhaltsverzeichnis](#inhaltsverzeichnis)
 ## 2014
 ### Physik
 >Für die Erfindung effizienter, blaues Licht ausstrahlender Dioden, die helle und energiesparende Lichtquellen ermöglicht haben.
