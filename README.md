@@ -1,6 +1,26 @@
 # Minkorrekt Nobelpreis Folgen
 Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de)
 
+## 2013
+### Physik
+>Für die theoretische Entdeckung eines Mechanismus, der zu unserem Verständnis des Ursprungs der Masse subatomarer Teilchen beiträgt, und der kürzlich durch die Entdeckung des vorhergesagten Elementarteilchens durch die ATLAS- und CMS-Experimente am Large Hadron Collider des CERN bestätigt wurde.
+.
+
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
+## 2014
+### Physik
+>Für die Erfindung effizienter, blaues Licht ausstrahlender Dioden, die helle und energiesparende Lichtquellen ermöglicht haben.
+
+
+### Chemie
+### Medizin
+### Literatur
+### Frieden
+
 ## 2015
 ### Physik
 >Für die Entdeckung von Neutrinooszillationen, die zeigen, dass Neutrinos eine Masse haben.
