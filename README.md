@@ -52,7 +52,6 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
     + [Literatur](#literatur-7)
     + [Frieden](#frieden-7)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## 2013
 ### Physik
