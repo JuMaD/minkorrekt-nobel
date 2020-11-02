@@ -14,6 +14,8 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ## 2016
 ### Physik
 >Für theoretische Entdeckungen topologischer Phasenübergänge und topologischer Materiephasen.
+
+
 ### Chemie
 ### Medizin
 ### Literatur
@@ -22,6 +24,8 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ## 2017
 ### Physik
 >Für entscheidende Beiträge zum LIGO-Detektor und die Beobachtung von Gravitationswellen.
+
+
 ### Chemie
 ### Medizin
 ### Literatur
@@ -30,6 +34,8 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ## 2018
 ### Physik
 >Für die Entwicklung optischer Pinzetten und deren Anwendung in der Biologie.
+
+
 ### Chemie
 ### Medizin
 ### Literatur
@@ -38,8 +44,12 @@ Auf dieser Seite sind alle alle Nobelpreise seit 2015 verzeichnet mit Links zum 
 ## 2019
 ### Physik
 >Für theoretische Entdeckungen in der physikalischen Kosmologie.
+
+
 und
 >Für die Entdeckung eines Exoplaneten, der einen sonnenähnlichen Stern umkreist.
+
+
 ### Chemie
 ### Medizin
 ### Literatur
@@ -48,8 +58,12 @@ und
 ## 2020
 ### Physik
 >Für die Entdeckung, dass die Bildung von Schwarzen Löchern eine robuste Vorhersage der allgemeinen Relativitätstheorie ist.
+
+
 und 
 >Für die Entdeckung eines supermassiven kompakten Objekts im Zentrum unserer Galaxie.
+
+
 ### Chemie
 ### Medizin
 ### Literatur
