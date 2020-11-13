@@ -1,6 +1,6 @@
 # Minkorrekt Nobelpreis Folgen
 Auf dieser Seite sind alle alle Nobelpreise seit 2013 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de). 
-Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur Nobel-Seite. Beiträge zur Seite gerne unter [GitHub]https://github.com/JuMaD/minkorrekt-nobel/ als pull-request.
+Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur Nobel-Seite. Beiträge zur Seite gerne unter [GitHub](https://github.com/JuMaD/minkorrekt-nobel) als pull-request.
 
 # Inhaltsverzeichnis
 
@@ -17,6 +17,13 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 | 2019 |        [Physik](#physik-6)    |     [Chemie](#chemie-6)   |    [Medizin](#medizin-6)     |       [Literatur](#literatur-6)    |    [Frieden](#frieden-6)    |  
 | 2020 |        [Physik](#physik-7)    |     [Chemie](#chemie-7)   |    [Medizin](#medizin-7)     |       [Literatur](#literatur-7)    |    [Frieden](#frieden-7)    |  
 
+# Wikipedia Übersichtsseiten
+
+[Physik](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physik)
+[Chemie](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Chemie)
+[Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physiologie_oder_Medizin)
+[Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Literatur)
+[Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Frieden)
 
 ## 2020
 ### Physik
@@ -34,7 +41,10 @@ und
 
 
 ### Medizin
+>Für ihre Entdeckung des Hepatitis-C-Virus
+
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=1%3A55%3A32%2C2%3A06%3A19)
+
 ### Literatur
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A28%3A38%2C2%3A37%3A13)
 ### Frieden
@@ -57,7 +67,10 @@ und
 
 
 ### Medizin
+>Für die Entdeckung molekularer Mechanismen der Sauerstoffaufnahme von Zellen.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=2%3A36%3A23%2C2%3A55%3A10)
+
 ### Literatur
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=3%3A18%3A47%2C3%3A33%3A34)
 ### Frieden
@@ -76,6 +89,7 @@ und
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=2%3A15%3A55%2C2%3A59%3A28)
 ### Medizin
+>Für die Entdeckung einer Krebstherapie durch Hemmung der negativen Immunregulation.
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=2%3A59%3A28%2C3%3A16%3A16)
 ### Literatur
@@ -98,7 +112,9 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 
 
 ### Medizin
+> Für ihre Entdeckungen betreffend die molekularen Kontrollmechanismen des circadianen Rhythmus.
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=1%3A52%3A21%2C2%3A19%3A41)
+
 ### Literatur
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=2%3A50%3A49%2C3%3A10%3A42)
 ### Frieden
@@ -114,7 +130,10 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A37%3A11%2C1%3A58%3A55)
 ### Medizin
+>Für seine Entdeckungen der Mechanismen der Autophagie.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A58%3A55%2C2%3A22%3A51)
+
 ### Literatur
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=2%3A59%3A31%2C3%3A10%3A43)
 ### Frieden
@@ -129,7 +148,13 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 >Für mechanistische Studien der DNA-Reparatur.
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A19%3A41%2C1%3A51%3A18)
 ### Medizin
+> für ihre Entdeckungen betreffend eine neuartige Therapie für von Fadenwürmern verursachten Infektionen.
+
+und 
+> für ihre Entdeckungen betreffend eine neuartige Therapie für Malaria
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A51%3A18%2C2%3A05%3A26)
+
 ### Literatur
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=2%3A36%3A22%2C2%3A41%3A38)
 ### Frieden
@@ -144,7 +169,10 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 >Für die Entwicklung von superauflösender Fluoreszenzmikroskopie.
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=32%3A36%2C1%3A14%3A19)
 ### Medizin
+>Für Entdeckungen von Zellen, die ein Positionierungssystem im Gehirn bilden.
+
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=2%3A26%3A33%2C2%3A58%3A00)
+
 
 ### Literatur
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=2%3A58%3A00%2C3%3A08%3A02)
@@ -166,7 +194,10 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 
 
 ### Medizin
+>Für die Entdeckungen von Transportprozessen in Zellen.
+
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A13%3A08%2C2%3A28%3A37)
+
 ### Literatur
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A28%3A37%2C2%3A34%3A35)
 ### Frieden
