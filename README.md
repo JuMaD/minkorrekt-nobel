@@ -22,8 +22,8 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 [Physik](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physik)
 [Chemie](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Chemie)
 [Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physiologie_oder_Medizin)
-[Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Literatur)
-[Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Frieden)
+[Literatur](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Literatur)
+[Frieden](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Frieden)
 
 ## 2020
 ### Physik
