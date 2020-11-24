@@ -46,6 +46,8 @@ und
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=1%3A55%3A32%2C2%3A06%3A19)
 
 ### Literatur
+>für ihre unverkennbare poetische Stimme, die mit strenger Schönheit die individuelle Existenz universell macht
+
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A28%3A38%2C2%3A37%3A13)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A37%3A13%2C2%3A51%3A51)
@@ -72,6 +74,8 @@ und
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=2%3A36%3A23%2C2%3A55%3A10)
 
 ### Literatur
+>für ein einflussreiches Werk, das mit sprachlichem Einfallsreichtum Randbereiche und die Spezifität menschlicher Erfahrungen ausgelotet hat
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=3%3A18%3A47%2C3%3A33%3A34)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=3%3A33%3A34%2C3%3A41%3A50)
@@ -116,6 +120,7 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=1%3A52%3A21%2C2%3A19%3A41)
 
 ### Literatur
+>der in Romanen von starker emotionaler Wirkung den Abgrund in unserer vermeintlichen Verbundenheit mit der Welt aufgedeckt hat.
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=2%3A50%3A49%2C3%3A10%3A42)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=3%3A10%3A42%2C3%3A21%3A30)
@@ -135,6 +140,8 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A58%3A55%2C2%3A22%3A51)
 
 ### Literatur
+>für seine poetischen Neuschöpfungen in der großen amerikanischen Songtradition
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=2%3A59%3A31%2C3%3A10%3A43)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=3%3A10%3A43%2C3%3A18%3A48)
@@ -156,6 +163,8 @@ und
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A51%3A18%2C2%3A05%3A26)
 
 ### Literatur
+>für ihr vielstimmiges Werk, das dem Leiden und Mut in unserer Zeit ein Denkmal setzt
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=2%3A36%3A22%2C2%3A41%3A38)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=2%3A41%3A38%2C2%3A46%3A01)
@@ -175,6 +184,8 @@ und
 
 
 ### Literatur
+>für die Kunst der Erinnerung, mit der er die unbegreiflichsten menschlichen Schicksale wachgerufen und die Lebenswelt der Besatzungszeit durchschaubar gemacht hat
+
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=2%3A58%3A00%2C3%3A08%3A02)
 ### Frieden
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=3%3A20%3A42%2C3%3A32%3A00)
@@ -199,6 +210,7 @@ und
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A13%3A08%2C2%3A28%3A37)
 
 ### Literatur
+> der Virtuosin der zeitgenössischen Kurzgeschichte
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A28%3A37%2C2%3A34%3A35)
 ### Frieden
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A34%3A35%2C2%3A40%3A12)
