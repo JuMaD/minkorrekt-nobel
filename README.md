@@ -8,7 +8,7 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 |      | Physik | Chemie | Medizin | Literatur | Frieden |
 |------|--------|--------|---------|-----------|---------|
-| 2013 |  [Physik](#physik)      |   [Chemie](#chemie)     |      [Medizin](#medizin)   |    [Literatur](#literatur)       |    [Frieden](#frieden)     |
+| 2013 |  [X](#physik)      |   [Chemie](#chemie)     |      [Medizin](#medizin)   |    [Literatur](#literatur)       |    [Frieden](#frieden)     |
 | 2014 |    [Physik](#physik-1)    |     [Chemie](#chemie-1)   |    [Medizin](#medizin-1)     |       [Literatur](#literatur-1)    |    [Frieden](#frieden-1)     |
 | 2015 |      [Physik](#physik-2)    |     [Chemie](#chemie-2)   |    [Medizin](#medizin-2)     |       [Literatur](#literatur-2)    |    [Frieden](#frieden-2)     |
 | 2016 |        [Physik](#physik-3)    |     [Chemie](#chemie-3)   |    [Medizin](#medizin-3)     |       [Literatur](#literatur-3)    |    [Frieden](#frieden-3)     |
