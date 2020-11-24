@@ -8,14 +8,14 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 |      | Physik | Chemie | Medizin | Literatur | Frieden |
 |------|--------|--------|---------|-----------|---------|
-| 2013 |  [X](#physik)      |   [Chemie](#chemie)     |      [Medizin](#medizin)   |    [Literatur](#literatur)       |    [Frieden](#frieden)     |
-| 2014 |    [Physik](#physik-1)    |     [Chemie](#chemie-1)   |    [Medizin](#medizin-1)     |       [Literatur](#literatur-1)    |    [Frieden](#frieden-1)     |
-| 2015 |      [Physik](#physik-2)    |     [Chemie](#chemie-2)   |    [Medizin](#medizin-2)     |       [Literatur](#literatur-2)    |    [Frieden](#frieden-2)     |
-| 2016 |        [Physik](#physik-3)    |     [Chemie](#chemie-3)   |    [Medizin](#medizin-3)     |       [Literatur](#literatur-3)    |    [Frieden](#frieden-3)     |
-| 2017 |         [Physik](#physik-4)    |     [Chemie](#chemie-4)   |    [Medizin](#medizin-4)     |       [Literatur](#literatur-4)    |    [Frieden](#frieden-4)    |  
-| 2018 |        [Physik](#physik-5)    |     [Chemie](#chemie-5)   |    [Medizin](#medizin-5)     |       [Literatur](#literatur-5)    |    [Frieden](#frieden-5)    |  
-| 2019 |        [Physik](#physik-6)    |     [Chemie](#chemie-6)   |    [Medizin](#medizin-6)     |       [Literatur](#literatur-6)    |    [Frieden](#frieden-6)    |  
-| 2020 |        [Physik](#physik-7)    |     [Chemie](#chemie-7)   |    [Medizin](#medizin-7)     |       [Literatur](#literatur-7)    |    [Frieden](#frieden-7)    |  
+| 2013 |  [Podcast](#physik)      |   [Podcast](#chemie)     |      [Podcast](#medizin)   |    [Podcast](#literatur)       |    [Podcast](#frieden)     |
+| 2014 |    [Podcast](#physik-1)    |     [Podcast](#chemie-1)   |    [Podcast](#medizin-1)     |       [Podcast](#literatur-1)    |    [Podcast](#frieden-1)     |
+| 2015 |      [Podcast](#physik-2)    |     [Podcast](#chemie-2)   |    [Podcast](#medizin-2)     |       [Podcast](#literatur-2)    |    [Podcast](#frieden-2)     |
+| 2016 |        [Podcast](#physik-3)    |     [Podcast](#chemie-3)   |    [Podcast](#medizin-3)     |       [Podcast](#literatur-3)    |    [Podcast](#frieden-3)     |
+| 2017 |         [Podcast](#physik-4)    |     [Podcast](#chemie-4)   |    [Podcast](#medizin-4)     |       [Podcast](#literatur-4)    |    [Podcast](#frieden-4)    |  
+| 2018 |        [Podcast](#physik-5)    |     [Podcast](#chemie-5)   |    [Podcast](#medizin-5)     |       [Podcast](#literatur-5)    |    [Podcast](#frieden-5)    |  
+| 2019 |        [Podcast](#physik-6)    |     [Podcast](#chemie-6)   |    [Podcast](#medizin-6)     |       [Podcast](#literatur-6)    |    [Podcast](#frieden-6)    |  
+| 2020 |        [Podcast](#physik-7)    |     [Podcast](#chemie-7)   |    [Podcast](#medizin-7)     |       [Podcast](#literatur-7)    |    [Podcast](#frieden-7)    |  
 
 # Wikipedia Übersichtsseiten
 
