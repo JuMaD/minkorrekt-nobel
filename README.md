@@ -50,6 +50,7 @@ und
 
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A28%3A38%2C2%3A37%3A13)
 ### Frieden
+>für die Bemühungen zur Bekämpfung des Hungers, für den Beitrag zur Verbesserung der Bedingungen für den Frieden in von Konflikten betroffenen Gebieten und als treibende Kraft bei den Bemühungen, den Einsatz von Hunger als Waffe für Krieg und Konflikte zu verhindern
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A37%3A13%2C2%3A51%3A51)
 
 
@@ -78,6 +79,8 @@ und
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=3%3A18%3A47%2C3%3A33%3A34)
 ### Frieden
+>für seine Bemühungen um Frieden und internationale Zusammenarbeit und insbesondere für seine entschlossene Initiative zur Lösung des Grenzkonflikts mit dem benachbarten Eritrea
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-153-nobelpreis-sonderfolge-2019/?t=3%3A33%3A34%2C3%3A41%3A50)
 
 ## 2018
@@ -100,6 +103,7 @@ und
 - nicht verliehen - 
 Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=3%3A37%3A30%2C3%3A45%3A29)
 ### Frieden
+>für ihren Einsatz gegen sexuelle Gewalt als Waffe in Kriegen und bewaffneten Konflikten
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=3%3A45%3A29%2C3%3A49%3A12)
 
@@ -123,6 +127,7 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 >der in Romanen von starker emotionaler Wirkung den Abgrund in unserer vermeintlichen Verbundenheit mit der Welt aufgedeckt hat.
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=2%3A50%3A49%2C3%3A10%3A42)
 ### Frieden
+>>für ihre Arbeit, Aufmerksamkeit auf die katastrophalen humanitären Konsequenzen von Atomwaffen zu lenken, und für ihre bahnbrechenden Bemühungen, ein vertragliches Verbot solcher Waffen zu erreichen
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=3%3A10%3A42%2C3%3A21%3A30)
 
 ## 2016
@@ -144,6 +149,8 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=2%3A59%3A31%2C3%3A10%3A43)
 ### Frieden
+>für seine entschlossenen Anstrengungen, den mehr als 50 Jahre andauernden Bürgerkrieg in dem Land zu beenden
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=3%3A10%3A43%2C3%3A18%3A48)
 
 ## 2015
@@ -167,6 +174,8 @@ und
 
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=2%3A36%3A22%2C2%3A41%3A38)
 ### Frieden
+>für seinen entscheidenden Beitrag zum Aufbau einer pluralistischen Demokratie in Tunesien infolge der Jasminrevolution des Jahres 2011
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=2%3A41%3A38%2C2%3A46%3A01)
 
 ## 2014
@@ -188,6 +197,8 @@ und
 
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=2%3A58%3A00%2C3%3A08%3A02)
 ### Frieden
+>für ihren Kampf gegen die Unterdrückung von Kindern und Jugendlichen und für das Recht aller Kinder auf Bildung
+
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=3%3A20%3A42%2C3%3A32%3A00)
 
 ## 2013
@@ -213,6 +224,8 @@ und
 > der Virtuosin der zeitgenössischen Kurzgeschichte
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A28%3A37%2C2%3A34%3A35)
 ### Frieden
+>für ihre umfänglichen Bemühungen zur Beseitigung chemischer Waffen
+
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A34%3A35%2C2%3A40%3A12)
 
 - zum [Inhaltsverzeichnis](#inhaltsverzeichnis)
