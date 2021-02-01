@@ -1,6 +1,6 @@
 # Minkorrekt Nobelpreis Folgen
 Auf dieser Seite sind alle alle Nobelpreise seit 2013 verzeichnet mit Links zum entsprechenden Podcast-Kapitel von [Methodisch Inkorrekt](https://www.minkorrekt.de). 
-Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur Nobel-Seite. Beiträge zur Seite gerne unter [GitHub](https://github.com/JuMaD/minkorrekt-nobel) als pull-request.
+Beiträge zur Seite gerne unter [GitHub](https://github.com/JuMaD/minkorrekt-nobel) als pull-request.
 
 # Inhaltsverzeichnis
 
@@ -32,6 +32,7 @@ Zukünftig auch mit Namen & Wikipedia Links zu den Preisträgern und evtl. zur N
 
 und 
 >Für die Entdeckung eines supermassiven kompakten Objekts im Zentrum unserer Galaxie.
+
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=38%3A47%2C1%3A16%3A12)
 
 ### Chemie
@@ -46,11 +47,12 @@ und
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=1%3A55%3A32%2C2%3A06%3A19)
 
 ### Literatur
->für ihre unverkennbare poetische Stimme, die mit strenger Schönheit die individuelle Existenz universell macht
+>für ihre unverkennbare poetische Stimme, die mit strenger Schönheit die individuelle Existenz universell macht.
 
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A28%3A38%2C2%3A37%3A13)
 ### Frieden
->für die Bemühungen zur Bekämpfung des Hungers, für den Beitrag zur Verbesserung der Bedingungen für den Frieden in von Konflikten betroffenen Gebieten und als treibende Kraft bei den Bemühungen, den Einsatz von Hunger als Waffe für Krieg und Konflikte zu verhindern
+>für die Bemühungen zur Bekämpfung des Hungers, für den Beitrag zur Verbesserung der Bedingungen für den Frieden in von Konflikten betroffenen Gebieten und als treibende Kraft bei den Bemühungen, den Einsatz von Hunger als Waffe für Krieg und Konflikte zu verhindern.
+
 [zum Podcast](https://minkorrekt.de/mi177-nobelpreis-sonderfolge-2020/?t=2%3A37%3A13%2C2%3A51%3A51)
 
 
@@ -102,6 +104,7 @@ und
 ### Literatur
 - nicht verliehen - 
 Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreissonderfolge-2018/?t=3%3A37%3A30%2C3%3A45%3A29)
+
 ### Frieden
 >für ihren Einsatz gegen sexuelle Gewalt als Waffe in Kriegen und bewaffneten Konflikten
 
@@ -125,14 +128,17 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 
 ### Literatur
 >der in Romanen von starker emotionaler Wirkung den Abgrund in unserer vermeintlichen Verbundenheit mit der Welt aufgedeckt hat.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=2%3A50%3A49%2C3%3A10%3A42)
 ### Frieden
->>für ihre Arbeit, Aufmerksamkeit auf die katastrophalen humanitären Konsequenzen von Atomwaffen zu lenken, und für ihre bahnbrechenden Bemühungen, ein vertragliches Verbot solcher Waffen zu erreichen
+>für ihre Arbeit, Aufmerksamkeit auf die katastrophalen humanitären Konsequenzen von Atomwaffen zu lenken, und für ihre bahnbrechenden Bemühungen, ein vertragliches Verbot solcher Waffen zu erreichen.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-106-nobelpreissonderfolge-2017/?t=3%3A10%3A42%2C3%3A21%3A30)
 
 ## 2016
 ### Physik
 >Für theoretische Entdeckungen topologischer Phasenübergänge und topologischer Materiephasen.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-84-nobelpreissonderfolge-2016/?t=1%3A00%3A16%2C1%3A37%3A11)
 
 ### Chemie
@@ -160,7 +166,9 @@ Erklärung [zum Podcast](https://minkorrekt.de/minkorrekt-folge-131-nobelpreisso
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=29%3A51%2C1%3A19%3A41)
 ### Chemie
 >Für mechanistische Studien der DNA-Reparatur.
+
 [zum Podcast](https://minkorrekt.de/minkorrekt-folge-61-nobelpreissonderfolge-2015/?t=1%3A19%3A41%2C1%3A51%3A18)
+
 ### Medizin
 > für ihre Entdeckungen betreffend eine neuartige Therapie für von Fadenwürmern verursachten Infektionen.
 
@@ -181,11 +189,14 @@ und
 ## 2014
 ### Physik
 >Für die Erfindung effizienter, blaues Licht ausstrahlender Dioden, die helle und energiesparende Lichtquellen ermöglicht haben.
+
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=1%3A20%3A51%2C2%3A01%3A58)
 
 ### Chemie
 >Für die Entwicklung von superauflösender Fluoreszenzmikroskopie.
+
 [zum Podcast](https://minkorrekt.de/methodisch-inkorrekt-folge-36-nobelpreissonderfolge/?t=32%3A36%2C1%3A14%3A19)
+
 ### Medizin
 >Für Entdeckungen von Zellen, die ein Positionierungssystem im Gehirn bilden.
 
@@ -222,7 +233,9 @@ und
 
 ### Literatur
 > der Virtuosin der zeitgenössischen Kurzgeschichte
+
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A28%3A37%2C2%3A34%3A35)
+
 ### Frieden
 >für ihre umfänglichen Bemühungen zur Beseitigung chemischer Waffen
 
