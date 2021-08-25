@@ -20,9 +20,13 @@ Beiträge zur Seite gerne unter [GitHub](https://github.com/JuMaD/minkorrekt-nob
 # Wikipedia Übersichtsseiten
 
 [Physik](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physik)
+
 [Chemie](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Chemie)
+
 [Medizin](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Physiologie_oder_Medizin)
+
 [Literatur](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Literatur)
+
 [Frieden](https://de.wikipedia.org/wiki/Liste_der_Nobelpreistr%C3%A4ger_f%C3%BCr_Frieden)
 
 ## 2020
@@ -240,19 +244,3 @@ und
 >für ihre umfänglichen Bemühungen zur Beseitigung chemischer Waffen
 
 [Folge 13](https://minkorrekt.de/methodisch-inkorrekt-folge-13-nobelpreis-sonderfolge/?t=2%3A34%3A35%2C2%3A40%3A12)
-
-- zum [Inhaltsverzeichnis](#inhaltsverzeichnis)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
